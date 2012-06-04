@@ -57,12 +57,6 @@
 }
 
 
-- (void)viewWillAppear:(BOOL)animated {
-	[super viewWillAppear:animated];
-	[_paginator reloadData];
-}
-
-
 #pragma mark - Private
 
 - (void)_initialize {
