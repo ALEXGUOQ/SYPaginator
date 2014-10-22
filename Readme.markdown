@@ -1,3 +1,7 @@
+**This is no longer maintained. I highly recommend using UIPageViewController instead.**
+
+---
+
 # SYPaginator
 
 Simple paging scroll view to make complicated tasks easier. We use this in several of the [Synthetic](http://heysynthetic.com) apps including [Hipstamatic](http://hipstamatic.com), [D-Series](http://disposable.hipstamatic.com), and [IncrediBooth](http://incredibooth.com).
